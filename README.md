@@ -1,17 +1,15 @@
-gulp-starter
-============
+gulp-start
+==========
+by deemidroll
+based on [gulp-starter](https://github.com/greypants/gulp-starter)
 
-Starter Gulp + Browserify project with examples of how to accomplish some common tasks and workflows. Read the [blog post](http://viget.com/extend/gulp-browserify-starter-faq) for more context, and check out the [Wiki]() for some good background knowledge.
+This skeleton include:
 
-Includes the following tools, tasks, and workflows:
-
+- Angular (from npm)
+- Bootstrap-sass (from npm)
 - Browserify (with browserify-shim)
 - Watchify (caching version of browserify for super fast rebuilds)
-- Compass
-- CoffeeScript (with source mapping!)
 - jQuery (from npm)
-- Backbone (from npm)
-- Handlebars (as a backbone dependency)
 - Non common-js vendor code (like a jQuery plugin)
 - LiveReload
 - Static Server

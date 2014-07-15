@@ -1,0 +1,4 @@
+node_modules
+assets/js/vendor
+bower_components
+build
