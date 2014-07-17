@@ -1,4 +1,4 @@
-gulp-start
+gulp-start for canvas-text-cut
 ==========
 by deemidroll
 based on [gulp-starter](https://github.com/greypants/gulp-starter)
